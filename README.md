@@ -1,4 +1,4 @@
-# Bootstrap-JavaScript-MERN-Taskss
+# Bootstrap-JavaScript-MERN-Tasks
 # Info
 1) Name: Sahil Gupta
 2) Reg No: 21BCE10829
