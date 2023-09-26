@@ -1,8 +1,8 @@
 # Bootstrap-JavaScript-MERN-Taskss
 # Info
-1) Name: UTKARSH VERMA
-2) Reg No: 21BCE10269
-3) VIT Email: utkarsh.verma2021@vitstudent.ac.in
+1) Name: Sahil Gupta
+2) Reg No: 21BCE10829
+3) VIT Email: sahil.gupta2021@vitstudent.ac.in
 
 # Details
 This repository includes all the tasks/works done during the course of the MERN-Stack.
