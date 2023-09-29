@@ -2,7 +2,7 @@
 # Info
 1) Name: Sahil Gupta
 2) Reg No: 21BCE10829
-3) VIT Email: sahil.gupta2021@vitstudent.ac.in
+3) VIT Email: sahil.gupta2021@vitbhopal.ac.in
 
 # Details
 This repository includes all the tasks/works done during the course of the MERN-Stack.
